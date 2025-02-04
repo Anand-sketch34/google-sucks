@@ -1,0 +1,30 @@
+
+
+.container
+{
+    position:relative;
+    left: 530px;
+    top: 300px;
+}
+
+.img
+{
+    width:250px;
+    height: 250px;
+}
+
+.c
+{
+
+    
+    position:relative;
+    left: 509px;
+    top: 25px;;
+
+
+}
+
+.black
+{
+    background-color: black;
+}
